@@ -20,7 +20,7 @@ Passionate about building modern, scalable and high-performance web & mobile app
 - 🌱 I'm always learning and exploring **new technologies**
 - 💬 Ask me about **.NET, ASP.NET Core, Angular, React, SQL**
 - ⚡ Fun fact: I love turning ☕ into clean code!
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **pavelwahid1@gmail.com**
 
 ---
 
@@ -107,17 +107,14 @@ Passionate about building modern, scalable and high-performance web & mobile app
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/pavel-softwaredeveloper/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:pavelwahid1@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK/" target="_blank">
+<a href="https://www.facebook.com/mdpavelwahid" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://YOUR_PORTFOLIO.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
