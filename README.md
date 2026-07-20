@@ -1,5 +1,3 @@
-
-
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1180" height="530" viewBox="0 0 1180 530" fontsize="15px">
 <style>
@@ -205,7 +203,6 @@ text, tspan { white-space: pre; }
   <text x="520" y="430"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc">. </tspan><tspan class="value">[000,000]</tspan> ( <tspan class="addColor">[000]</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">[000]</tspan><tspan class="delColor">--</tspan> )</text>
 </g>
 </svg>
-
 
 <div align="center">
 
